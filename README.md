@@ -1,9 +1,5 @@
 # go_trash_app
 
-A new Flutter project.
-
-## Getting Started
-
 # A Team Description
 We Are Team Hanasta Vijaya. We are coming from UPN "Veteran" Jawa Timur.
 Our team consisting of:
